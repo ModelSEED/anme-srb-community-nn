@@ -1,0 +1,23 @@
+{
+  "n": 3000,
+  "seed": 20261028,
+  "ranges": {
+    "CH4": [
+      0.0,
+      300.0
+    ],
+    "SO4": [
+      0.0,
+      200.0
+    ],
+    "NH3": [
+      0.0,
+      70.0
+    ]
+  },
+  "method": "lexicographic FBA (max bio1 -> max sulfide -> max CO2)",
+  "model": "community_ANME2a_SRB2_AOM_final.json",
+  "n_growing": 3000,
+  "growth_min": 0.0030906819626767847,
+  "growth_max": 5.772563446002948
+}
